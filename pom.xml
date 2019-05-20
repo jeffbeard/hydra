@@ -96,7 +96,7 @@
     <hydra.dep.jsoup.version>1.11.2</hydra.dep.jsoup.version>
     <hydra.dep.jopt-simple.version>5.0.4</hydra.dep.jopt-simple.version>
     <hydra.dep.apache.httpcomponents.httpclient.version>4.5.5</hydra.dep.apache.httpcomponents.httpclient.version>
-    <hydra.dep.apache.zookeeper.version>3.4.11</hydra.dep.apache.zookeeper.version>
+    <hydra.dep.apache.zookeeper.version>3.5.5</hydra.dep.apache.zookeeper.version>
 
     <!-- compression dependency versions -->
     <hydra.dep.compress.compress-lzf.version>1.0.4</hydra.dep.compress.compress-lzf.version>
