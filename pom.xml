@@ -87,7 +87,7 @@
     <hydra.dep.curator.version>4.0.1</hydra.dep.curator.version>
     <hydra.dep.spring.version>5.0.5.RELEASE</hydra.dep.spring.version>
     <hydra.dep.jersey.version>1.19.4</hydra.dep.jersey.version>
-    <hydra.dep.jetty.version>9.4.9.v20180320</hydra.dep.jetty.version>
+    <hydra.dep.jetty.version>9.4.17.v20190418</hydra.dep.jetty.version>
     <hydra.dep.netty3.version>3.10.6.Final</hydra.dep.netty3.version>
     <hydra.dep.netty4.version>4.1.23.Final</hydra.dep.netty4.version>
     <hydra.dep.sleepycat.je.version>5.0.73</hydra.dep.sleepycat.je.version>
