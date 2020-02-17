@@ -80,30 +80,30 @@
     <hydra.dep.log4j2.version>2.11.0</hydra.dep.log4j2.version>
     <hydra.dep.apache.commons.lang3.version>3.1</hydra.dep.apache.commons.lang3.version>
     <hydra.dep.jackson.jackson-mapper-asl.version>1.9.13</hydra.dep.jackson.jackson-mapper-asl.version>
-    <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.10.0.pr1</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
+    <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.10.0</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
     <hydra.dep.commons-codec.version>1.11</hydra.dep.commons-codec.version>
     <hydra.dep.commons-collections.version>4.1</hydra.dep.commons-collections.version>
     <hydra.dep.commons-lang3.version>3.7</hydra.dep.commons-lang3.version>
     <hydra.dep.curator.version>4.0.1</hydra.dep.curator.version>
     <hydra.dep.spring.version>5.0.5.RELEASE</hydra.dep.spring.version>
     <hydra.dep.jersey.version>1.19.4</hydra.dep.jersey.version>
-    <hydra.dep.jetty.version>9.4.9.v20180320</hydra.dep.jetty.version>
+    <hydra.dep.jetty.version>9.4.11.v20180605</hydra.dep.jetty.version>
     <hydra.dep.netty3.version>3.10.6.Final</hydra.dep.netty3.version>
-    <hydra.dep.netty4.version>4.1.23.Final</hydra.dep.netty4.version>
+    <hydra.dep.netty4.version>4.1.42.Final</hydra.dep.netty4.version>
     <hydra.dep.sleepycat.je.version>5.0.73</hydra.dep.sleepycat.je.version>
-    <hydra.dep.hadoop.version>3.0.1</hydra.dep.hadoop.version>
+    <hydra.dep.hadoop.version>3.2.1</hydra.dep.hadoop.version>
     <hydra.dep.guava.retrying.version>2.0.0</hydra.dep.guava.retrying.version>
     <hydra.dep.jsoup.version>1.11.2</hydra.dep.jsoup.version>
     <hydra.dep.jopt-simple.version>5.0.4</hydra.dep.jopt-simple.version>
     <hydra.dep.apache.httpcomponents.httpclient.version>4.5.5</hydra.dep.apache.httpcomponents.httpclient.version>
-    <hydra.dep.apache.zookeeper.version>3.4.11</hydra.dep.apache.zookeeper.version>
+    <hydra.dep.apache.zookeeper.version>3.4.14</hydra.dep.apache.zookeeper.version>
 
     <!-- compression dependency versions -->
     <hydra.dep.compress.compress-lzf.version>1.0.4</hydra.dep.compress.compress-lzf.version>
     <hydra.dep.compress.jzlib.version>1.1.3</hydra.dep.compress.jzlib.version>
     <hydra.dep.compress.snappy-java.version>1.1.7.1</hydra.dep.compress.snappy-java.version>
     <hydra.dep.compress.org.tukaani.xz.version>1.8</hydra.dep.compress.org.tukaani.xz.version>
-    <hydra.dep.compress.apache.commons-compress.version>1.16.1</hydra.dep.compress.apache.commons-compress.version>
+    <hydra.dep.compress.apache.commons-compress.version>1.19</hydra.dep.compress.apache.commons-compress.version>
   </properties>
 
   <!-- included in every submodule -->
@@ -192,7 +192,7 @@
       <dependency>
         <groupId>org.apache.avro</groupId>
         <artifactId>avro</artifactId>
-        <version>1.8.2</version>
+        <version>1.9.1</version>
       </dependency>
       <dependency>
         <groupId>com.google.code.gson</groupId>
