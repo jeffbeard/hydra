@@ -91,7 +91,7 @@
     <hydra.dep.netty3.version>3.10.6.Final</hydra.dep.netty3.version>
     <hydra.dep.netty4.version>4.1.42.Final</hydra.dep.netty4.version>
     <hydra.dep.sleepycat.je.version>5.0.73</hydra.dep.sleepycat.je.version>
-    <hydra.dep.hadoop.version>3.2.1</hydra.dep.hadoop.version>
+    <hydra.dep.hadoop.version>3.3.0</hydra.dep.hadoop.version>
     <hydra.dep.guava.retrying.version>2.0.0</hydra.dep.guava.retrying.version>
     <hydra.dep.jsoup.version>1.11.2</hydra.dep.jsoup.version>
     <hydra.dep.jopt-simple.version>5.0.4</hydra.dep.jopt-simple.version>
@@ -192,7 +192,7 @@
       <dependency>
         <groupId>org.apache.avro</groupId>
         <artifactId>avro</artifactId>
-        <version>1.9.1</version>
+        <version>1.9.2</version>
       </dependency>
       <dependency>
         <groupId>com.google.code.gson</groupId>
