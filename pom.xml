@@ -80,7 +80,7 @@
     <hydra.dep.log4j2.version>2.11.0</hydra.dep.log4j2.version>
     <hydra.dep.apache.commons.lang3.version>3.1</hydra.dep.apache.commons.lang3.version>
     <hydra.dep.jackson.jackson-mapper-asl.version>1.9.13</hydra.dep.jackson.jackson-mapper-asl.version>
-    <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.10.0</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
+    <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.11.0</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
     <hydra.dep.commons-codec.version>1.11</hydra.dep.commons-codec.version>
     <hydra.dep.commons-collections.version>4.1</hydra.dep.commons-collections.version>
     <hydra.dep.commons-lang3.version>3.7</hydra.dep.commons-lang3.version>
