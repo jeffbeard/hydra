@@ -80,14 +80,14 @@
     <hydra.dep.log4j2.version>2.11.0</hydra.dep.log4j2.version>
     <hydra.dep.apache.commons.lang3.version>3.1</hydra.dep.apache.commons.lang3.version>
     <hydra.dep.jackson.jackson-mapper-asl.version>1.9.13</hydra.dep.jackson.jackson-mapper-asl.version>
-    <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.10.0</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
+    <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.11.0</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
     <hydra.dep.commons-codec.version>1.11</hydra.dep.commons-codec.version>
     <hydra.dep.commons-collections.version>4.1</hydra.dep.commons-collections.version>
     <hydra.dep.commons-lang3.version>3.7</hydra.dep.commons-lang3.version>
     <hydra.dep.curator.version>4.0.1</hydra.dep.curator.version>
     <hydra.dep.spring.version>5.0.5.RELEASE</hydra.dep.spring.version>
     <hydra.dep.jersey.version>1.19.4</hydra.dep.jersey.version>
-    <hydra.dep.jetty.version>9.4.35.v20201120</hydra.dep.jetty.version>
+    <hydra.dep.jetty.version>9.4.41.v20210516</hydra.dep.jetty.version>
     <hydra.dep.netty3.version>3.10.6.Final</hydra.dep.netty3.version>
     <hydra.dep.netty4.version>4.1.42.Final</hydra.dep.netty4.version>
     <hydra.dep.sleepycat.je.version>5.0.73</hydra.dep.sleepycat.je.version>
