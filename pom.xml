@@ -81,7 +81,7 @@
     <hydra.dep.apache.commons.lang3.version>3.1</hydra.dep.apache.commons.lang3.version>
     <hydra.dep.jackson.jackson-mapper-asl.version>1.9.13</hydra.dep.jackson.jackson-mapper-asl.version>
     <hydra.dep.jackson.jackson-jaxrs-json-provider.version>2.10.0</hydra.dep.jackson.jackson-jaxrs-json-provider.version>
-    <hydra.dep.commons-codec.version>1.11</hydra.dep.commons-codec.version>
+    <hydra.dep.commons-codec.version>1.13</hydra.dep.commons-codec.version>
     <hydra.dep.commons-collections.version>4.1</hydra.dep.commons-collections.version>
     <hydra.dep.commons-lang3.version>3.7</hydra.dep.commons-lang3.version>
     <hydra.dep.curator.version>4.0.1</hydra.dep.curator.version>
@@ -182,7 +182,7 @@
       <dependency>
         <groupId>commons-io</groupId>
         <artifactId>commons-io</artifactId>
-        <version>2.6</version>
+        <version>2.7</version>
       </dependency>
       <dependency>
         <groupId>commons-logging</groupId>
