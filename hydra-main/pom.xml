@@ -155,7 +155,7 @@
     <dependency>
       <groupId>io.prometheus.jmx</groupId>
       <artifactId>collector</artifactId>
-      <version>0.10</version>
+      <version>0.14.0</version>
     </dependency>
     <dependency>
       <groupId>io.prometheus</groupId>
