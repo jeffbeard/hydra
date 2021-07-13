@@ -103,7 +103,7 @@
     <hydra.dep.compress.jzlib.version>1.1.3</hydra.dep.compress.jzlib.version>
     <hydra.dep.compress.snappy-java.version>1.1.7.1</hydra.dep.compress.snappy-java.version>
     <hydra.dep.compress.org.tukaani.xz.version>1.8</hydra.dep.compress.org.tukaani.xz.version>
-    <hydra.dep.compress.apache.commons-compress.version>1.19</hydra.dep.compress.apache.commons-compress.version>
+    <hydra.dep.compress.apache.commons-compress.version>1.21</hydra.dep.compress.apache.commons-compress.version>
   </properties>
 
   <!-- included in every submodule -->
